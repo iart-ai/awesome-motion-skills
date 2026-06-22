@@ -63,7 +63,7 @@ This list is an **open aggregator** — motion/animation/video skills from anyon
 
 ## Collections
 
-- [iart-ai/motion-skills](https://github.com/iart-ai/motion-skills) — 50 skills across 14 installable packs, the open-source motion-graphics craft behind [iart.ai](https://iart.ai).
+- [iart-ai/motion-skills](https://github.com/iart-ai/motion-skills) — 50 skills across 14 installable packs, the open-source motion-graphics craft behind [iart.ai](https://iart.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-motion-skills&utm_content=aggregator).
 
 ## Contributing
 
