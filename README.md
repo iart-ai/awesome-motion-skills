@@ -64,6 +64,7 @@ This list is an **open aggregator** — motion/animation/video skills from anyon
 ## Collections
 
 - [iart-ai/motion-skills](https://github.com/iart-ai/motion-skills) — 50 skills across 14 installable packs, the open-source motion-graphics craft behind [iart.ai](https://iart.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-motion-skills&utm_content=aggregator).
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) — Local-first video-production skill pack for coding agents, covering planning, composition, editing, generation, and render QA. *(14 skills)*
 
 ## Contributing
 
