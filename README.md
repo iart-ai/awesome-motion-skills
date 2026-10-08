@@ -59,6 +59,7 @@ This list is an **open aggregator** — motion/animation/video skills from anyon
 
 ## Business & workflow
 
+- [1human](https://github.com/mdagnolops/1human-reels) — Find licensed motion references and adapt reusable recipes to an owner-approved animation or video task, guided by shared human-agent favorites. *(1 skill)*
 - [freelance-motion-skills](https://github.com/iart-ai/freelance-motion-skills) — The business side for motion freelancers & studios: briefs, pricing, revisions, delivery specs, brand motion systems. *(5 skills)*
 
 ## Collections
