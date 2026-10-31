@@ -36,6 +36,7 @@ This list is an **open aggregator** — motion/animation/video skills from anyon
 
 ## Data & explainer
 
+- [LydiaTools/art-motion-workbuddy](https://github.com/LydiaTools/art-motion-workbuddy) — Editable whiteboard and motion-graphics workflow for WorkBuddy and Codex. *(1 skill)*
 - [data-animation-skills](https://github.com/iart-ai/data-animation-skills) — Frame-accurate animated charts, infographics, and presentation videos from a CSV — exact numbers, no hallucinated data. *(3 skills)*
 - [explainer-video-skills](https://github.com/iart-ai/explainer-video-skills) — Educational explainers: whiteboard, isometric, diagram, and concept animation. *(5 skills)*
 - [map-animation-skills](https://github.com/iart-ai/map-animation-skills) — Vox-style editorial map animation — routes, choropleths, animated borders and labels. *(1 skill)*
